@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="https://youtu.be/MuBgIfBR1kA?si=JaTnxZnOTrnPLWLU">
+    <title>Redirecionando...</title>
+</head>
+<body>
+    <p>Você será redirecionado para o vídeo. Se não for redirecionado automaticamente, <a href="https://youtu.be/MuBgIfBR1kA?si=JaTnxZnOTrnPLWLU">clique aqui</a>.</p>
+</body>
+</html>
